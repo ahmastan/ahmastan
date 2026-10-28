@@ -52,12 +52,12 @@ Rubric-based essay feedback for students. Estimates a level for each rubric crit
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://zephydian.com"><img src="https://raw.githubusercontent.com/ahmastan/zephydian/main/assets/brand/preview.jpg" alt="The Zephydian panel open over a Mac desktop" width="100%"></a>
+<a href="https://zephydian.com"><img src="https://raw.githubusercontent.com/ahmastan/zephydian/main/assets/brand/preview.jpg" alt="The Zephdeck panel open over a Mac desktop" width="100%"></a>
 
 </td>
 <td width="50%" valign="top">
 
-### [Zephydian](https://github.com/ahmastan/zephydian)
+### [Zephdeck](https://github.com/zephydian/zephdeck)
 A free, open-source macOS menu bar utility and game panel. Hover over a screen corner and a panel appears with tabbed Markdown notes, utilities, and games.
 
 - Runs in about **25 MB of memory**, idling at about **0.1% CPU**
@@ -66,7 +66,7 @@ A free, open-source macOS menu bar utility and game panel. Hover over a screen c
 
 `Swift` `SwiftUI` `XcodeGen` `Homebrew`
 
-**[Try it in your browser](https://zephydian.com)** · **[Source](https://github.com/ahmastan/zephydian)** · **[Releases](https://github.com/ahmastan/zephydian/releases)**
+**[Try it in your browser](https://zephydian.com)** · **[Source](https://github.com/zephydin/zephdeck)** · **[Releases](https://github.com/zephydian/zephdeck/releases)**
 
 </td>
 </tr>
